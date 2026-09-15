@@ -1,0 +1,5 @@
+CustomerID,Days_Since_Purchase,Total_Purchases,Support_Tickets,Avg_Order_Value,Email_Open_Rate,Membership_Tier
+101,15,8,0,2500,65,Gold
+102,75,2,4,800,15,Regular
+103,45,4,2,1200,40,Silver
+104,85,1,5,500,10,Regular
